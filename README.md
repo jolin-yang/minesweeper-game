@@ -12,3 +12,4 @@
 
 
 ## Code Access
+As per course policy, the game's source code cannot be shared publicly, but can be provided upon request. 
