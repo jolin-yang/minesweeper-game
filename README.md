@@ -1,6 +1,6 @@
 # Minesweeper Game 
 
-## Features:
+## Features
 🚩 **Flagging**: Right-click cells to flag cells you suspect to be mines.   
 #️⃣ **Neighboring mine count**: When a non-mine cell is clicked, reveals the number of mines neighboring that cell.   
 🌊 **Floodfill effect**: Recursively reveals all adjacent non-mine cells in a cascading flood-like manner when a non-mine cell with zero neighboring mines is clicked, uncovering an entire region of connected non-mine cells until it reaches a cell with a non-zero neighboring mine count.   
@@ -9,7 +9,7 @@
 
 
 
-##  Instructions:
+##  Instructions
 ***Game Objective***: Uncover all non-mine cells in the grid **WITHOUT** clicking on/"setting off" any mines.    
 
 - Each cell in the grid represents either a mine or non-mine (safe) cell, with mines randomly distributed across the grid. 
