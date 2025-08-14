@@ -16,7 +16,7 @@
 
 - At the beginning of the game, the first cell the player clicks on is always guaranteed to be a non-mine cell. It is impossible for the player to immediately lose after their first click per the design of the game.  
 
-- Click on a non-mine cell to see the number of mines adjacent to it - and make sure you don't click on any mine, otherwise the mine will be set off and the game will be over. Based on the neighboring mine count values, you can infer which cells are mines and which are non-mine cells that are safe to click on.   
+- Click on a non-mine cell to see the number of mines adjacent to it - and make sure you don't click on any mine, otherwise the mine will be set off and the game will be over. This a game of logic, so make use of the  neighboring mine count values to infer which cells are mines and which are non-mine cells that are safe to click on.   
 
 - Flag cells you suspect to be mines by right-clicking them.  
 
