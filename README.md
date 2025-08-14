@@ -20,11 +20,13 @@
 
 - Flag cells you suspect to be mines by right-clicking them.  
 
-- As you play the game, view the bottom panel to see your player stats and use these to help you determine how many more mines you have left to track and how many more non-mine cells you need to uncover:  
+- As you play the game, view the bottom panel to see your player stats:  
   - The length of the current game so far
   - The number of mines that remain to be uncovered  
   - The number of cells that have been uncovered  
-  - The number of (non-mine) cells that remain to be uncovered  
+  - The number of (non-mine) cells that remain to be uncovered
+
+  Use these stats to help you determine how many more mines you have left to track and how many more non-mine cells you need to uncover.
 
 - Once the current game has ended, you can restart the game with a new layout of mines by pressing the return/enter key. Note: this **only** works once the game is over and will not work midway through a game.   
 
