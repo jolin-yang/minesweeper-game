@@ -1,3 +1,5 @@
 ## Minesweeper Game Instructions
 
-Objective: 
+Objective: Uncover all non-mine cells in the grid without clicking on/"setting off" any mines
+
+
