@@ -10,7 +10,7 @@
 ##  Instructions:
 ***Game Objective***: Uncover all non-mine cells in the grid **WITHOUT** clicking on/"setting off" any mines.
 
-- Use the source code to customize the grid dimensions and number of mines (default settings are 16 × 30 with 99 mines): grid must have 9–35 columns and up to 17 rows.   
+- Use the source code to customize the grid dimensions and number of mines (default settings are 16 × 30 with 99 mines):   grid must have 9–35 columns and up to 17 rows.   
   
 ## Code Access
 As per course policy, the game's source code cannot be shared publicly, but can be provided **upon request**. 
