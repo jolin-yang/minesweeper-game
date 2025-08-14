@@ -7,13 +7,7 @@
 🔄 Restart: Restarts the game with a new layout of mines when the return key is clicked after the current game is won/loss.   
 
 
-
-
-
-
-
-
-
-Objective: Uncover all non-mine cells in the grid without clicking on/"setting off" any mines
+##  Instructions:
+** Objective: Uncover all non-mine cells in the grid without clicking on/"setting off" any mines **  
 
 
