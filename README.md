@@ -20,7 +20,7 @@
 
 - Flag cells you suspect to be mines by right-clicking them.  
 
-- As you play the game, view the bottom panel to see your player stats and use these to help you determine how many more mines you have left to track and how many non-mine cells you need to uncover:  
+- As you play the game, view the bottom panel to see your player stats and use these to help you determine how many more mines you have left to track and how many more non-mine cells you need to uncover:  
   - The length of the current game so far
   - The number of mines that remain to be uncovered  
   - The number of cells that have been uncovered  
