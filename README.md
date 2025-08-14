@@ -8,7 +8,7 @@
 
 
 ##  Instructions:
-***Game Objective: Uncover all non-mine cells in the grid WITHOUT clicking on/"setting off" any mines***     
+***Game Objective***: Uncover all non-mine cells in the grid WITHOUT clicking on/"setting off" any mines    
 
 
 ## Code Access
