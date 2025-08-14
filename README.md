@@ -28,8 +28,8 @@
 
   Use these stats to help you determine how many more mines you have left to track and how many more non-mine cells you need to uncover.
 
-- Once the current game has ended, you can restart the game with a new layout of mines by pressing the return/enter key.
-  Note: this **only** works once the game is over and will not work midway through a game.   
+- Once the current game has ended, you can restart the game with a new layout of mines by pressing the return/enter key.   
+Note: this **only** works once the game is over and will not work midway through a game.   
 
 - Use the source code to customize the grid dimensions and number of mines (default settings are 16 × 30 with 99 mines):     
 Grid must have 9–35 columns and up to 17 rows.   
