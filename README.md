@@ -1,5 +1,9 @@
 # Minesweeper Game 
 
+## Overview
+Inspired by the classic Minesweeper game, my project preserves the core game mechanics while introducing a unique twist with functional supporting features. Enjoy!
+
+
 ## Features
 🚩 **Flagging**: Right-click cells to flag cells you suspect to be mines.   
 
