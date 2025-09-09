@@ -1,7 +1,7 @@
 # Minesweeper Game 
 
 ## Overview
-Inspired by the classic Minesweeper game, my project preserves the core game mechanics while introducing a unique twist with functional supporting features. Enjoy!
+Inspired by the classic Minesweeper game, my project preserves the core game mechanics while introducing a unique twist with functional supporting features designed to enhance gameplay and user experience. Enjoy!
 
 
 ## Features
