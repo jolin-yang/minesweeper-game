@@ -40,7 +40,12 @@ Inspired by the classic Minesweeper game, my project preserves the core game mec
 **Note**: This **only** works once the game is over and will not work midway through a game.   
 
 - Use the source code to customize the grid dimensions and number of mines (default settings are 16 × 30 with 99 mines).     
-**Note**: Grid must have 9–35 columns and up to 17 rows.   
+**Note**: Grid must have 9–35 columns and up to 17 rows.
+
+##  Game Snippets
+<img width="1200" height="817" alt="Screenshot 2025-07-10 at 2 01 07 PM" src="https://github.com/user-attachments/assets/e335da45-4524-418b-ab85-6e722cd29212" />
+<img width="1202" height="819" alt="Screenshot 2025-07-10 at 1 59 34 PM" src="https://github.com/user-attachments/assets/420ed6f4-bb0b-42e0-942a-3a72ea5db8dd" />
+
   
 ## Code Access
 As per course policy, the game's source code cannot be shared publicly, but can be provided **upon request**. 
