@@ -1,12 +1,10 @@
 # Minesweeper Game 
 
-## Overview
-Inspired by the classic Minesweeper game, my project preserves the core game mechanics while introducing a unique twist with functional supporting features designed to enhance gameplay and user experience. Enjoy!
-
-<br>
-
 <img width="1200" height="817" alt="Screenshot 2025-07-10 at 2 01 07 PM" src="https://github.com/user-attachments/assets/e335da45-4524-418b-ab85-6e722cd29212" />    
 
+
+## Overview
+Inspired by the classic Minesweeper game, my project preserves the core game mechanics while introducing a unique twist with functional supporting features designed to enhance gameplay and user experience. Enjoy!
 
 ## Features
 🚩 **Flagging**: Right-click cells to flag cells you suspect to be mines.   
